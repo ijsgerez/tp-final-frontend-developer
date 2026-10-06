@@ -4,7 +4,7 @@ Proyecto desarrollado como **Trabajo Práctico Final (Módulo 3)** para el Curso
 
 BeerBrowse es una aplicación web interactiva (SPA) que permite descubrir y explorar establecimientos, microcervecerías y brewpubs de diferentes partes del mundo. Consume los datos directamente de la API pública [Open Brewery DB](https://www.openbrewerydb.org/).
 
-🌐 **[Ver Aplicación en Vivo](AQUI_PEGAR_TU_LINK_DE_VERCEL)**
+🌐 **[Ver Aplicación en Vivo](https://tp-final-frontend-developer.vercel.app/)**
 
 ## 🚀 Características y Funcionalidades
 
