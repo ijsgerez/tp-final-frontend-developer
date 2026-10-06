@@ -1,0 +1,67 @@
+/* Contenedores de estados */
+.detail-not-found-container {
+  text-align: center;
+  padding: 40px;
+}
+
+.detail-main-wrapper {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* Enlaces de navegación */
+.detail-link-volver {
+  color: var(--color-accent);
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 20px;
+  transition: color 0.2s ease;
+}
+
+.detail-link-volver:hover {
+  color: var(--color-accent-hover);
+  text-decoration: underline;
+}
+
+/* Tipografías y textos del bloque principal */
+.detail-title-main {
+  font-size: 2.2rem;
+  color: #ffffff;
+  margin-top: 12px;
+  margin-bottom: 8px;
+}
+
+.detail-address-large {
+  font-size: 1.1rem;
+  margin-bottom: 24px;
+}
+
+/* Lista de datos secundarios */
+.detail-extra-info-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  border-top: 1px solid var(--borde-color);
+  padding-top: 20px;
+}
+
+.detail-phone-link {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+.detail-phone-link:hover {
+  text-decoration: underline;
+}
+
+/* Botón externo al sitio web */
+.detail-web-btn-wrapper {
+  margin-top: 32px;
+}
+
+.btn-detail-external-web {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  line-height: 22px;
+}

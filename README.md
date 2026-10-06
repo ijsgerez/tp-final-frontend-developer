@@ -1,0 +1,5 @@
+- Quitar los styles de BreweryList.jsx, Home.jsx
+- Generar archivo README.md
+- Generar repositorio
+- Deployar (?
+- Generar un pdf para la entrega.
